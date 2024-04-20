@@ -1,0 +1,2 @@
+This code will be used to find the Volume of a sphere then I will well as the probes expand find the next largest sphere and then subtract this sphere from it to see how many probes are in the next expansion area.
+Sphere will expand out at a rate of the time it takes to build a probe.
